@@ -6,6 +6,8 @@ export default defineConfig({
   base: "/Puzzle-Game-Generator/",
   plugins: [react()],
 });
+npm install
+npm run build
 <html lang="en">
 <head>
 <meta charset="utf-8">
